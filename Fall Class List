@@ -1,0 +1,38 @@
+Hello World
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />
+<link rel="mask-icon" type="" href="https://static.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111" />
+<title>CodePen - 2001</title>
+<style>
+  h1{
+  color: purple;
+  background-color: skyblue;
+  margin-bottom:0px;
+}
+
+#fall-list{
+  background-image:url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiP4L6i0ZfmAhVmIjQIHUXQAZgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-28467886-80s-retro-futurism-background&psig=AOvVaw0h5_fK7YfFiyhr_62sozNe&ust=1575399070501089");
+  
+  font-size:130%;
+  margin-top:0px;
+}
+</style>
+</head>
+<body translate="no">
+<h1>Fall Trimester</h1>
+<ol id="fall-list">
+<li>Beg Studio Arts</li>
+<li>PE Yoga</li>
+<li>Health</li>
+<li>Scientific Investigation</li>
+<li>English</li>
+<li>History</li>
+<li>Math</li>
+<li>Chinese</li>
+</ol>
+</body>
+</html>
